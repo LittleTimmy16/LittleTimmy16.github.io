@@ -1,8 +1,8 @@
 {
   "servers": [
     {
-      "name": "SideStore",
-      "address": "https://ani.sidestore.io"
+      "name" : "LittleTimmy16",
+      "address" : "https://anisette-v3-server-cohd.onrender.com"
     },
     {
       "name": "SideStore (.app)",
@@ -57,8 +57,8 @@
       "address": "https://ani.stik.tech"
     },
     {
-      "name" : "LittleTimmy16",
-      "address" : "https://anisette-v3-server-cohd.onrender.com"
+      "name": "SideStore",
+      "address": "https://ani.sidestore.io"
     } 
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
